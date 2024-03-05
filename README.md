@@ -4,7 +4,7 @@ Just a wrapper round HSV-RGB library "github.com/crazy3lf/colorconv"
 # Build
 go install
 
-# Binaty image (Linux)
+# Binary image (Linux)
 ./bin/rgb-hsv
 
 # Command line
